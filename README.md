@@ -6,4 +6,4 @@ Here I drew an ironman cartoon picture with Java. The preparation and the final 
 
 # Graphing on paper
 ![image](https://user-images.githubusercontent.com/99308255/155906839-3fa3bb4c-a9e9-4a5e-9cb9-c765b52a52fa.png)
-
+Here is a sketch of the ironman oin graph paper to confirm the coordinates
